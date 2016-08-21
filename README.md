@@ -9,5 +9,5 @@ F401用401中的内容替换STM32Cube_FW_F4_V1.11.0\Projects\STM32F401RE-Nucleo\
 ---------------
 F767用767中的内容替换STM32Cube_FW_F7_V1.4.0\Projects\STM32F767ZI-Nucleo\Examples\UART\UART_Printf\Src中的main.c,并打开该串口工程。
 ----------------
-详细请参考帖子
+详细请参考帖子[STM32F7与STM32F4运行速度对比测试分析](http://bbs.21ic.com/forum.php?mod=viewthread&tid=1622796&page=1&extra=#pid7214570)
 
